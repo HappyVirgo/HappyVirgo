@@ -1,5 +1,11 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happyvirgo&count_private=true&show_icons=true&show_icons=true&theme=radical&repo=github-readme-stats)](https://github.com/HappyVirgo/Drewnogrod)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happyvirgo&layout=compact)](https://github.com/happyvirgo/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happyvirgo&count_private=true&show_icons=true&show_icons=true&theme=radical&repo=github-readme-stats)](https://github.com/HappyVirgo/Drewnogrod)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happyvirgo&layout=compact)](https://github.com/happyvirgo/github-readme-stats) -->
+<a href="https://github.com/happyvirgo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=happyvirgo&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/happyvirgo/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=happyvirgo&repo=convoychat" />
+</a>
 - 👋 Hi, I’m @HappyVirgo
 - 👀 I’m interested in javascript frameworks such as react/vue/angular.
 - 💞️ I’m looking for a new job immediately.
