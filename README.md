@@ -1,4 +1,5 @@
-[![HappyVirgo's GitHub stats](https://github-readme-stats.vercel.app/api?username=happyvirgo&count_private=true&show_icons=true&show_icons=true&repo=github-readme-stats)](https://github.com/HappyVirgo/Drewnogrod)
+
+<a href="">[![HappyVirgo's GitHub stats](https://github-readme-stats.vercel.app/api?username=happyvirgo&count_private=true&show_icons=true&show_icons=true&repo=github-readme-stats)](https://github.com/HappyVirgo/Drewnogrod)</a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happyvirgo&layout=compact)](https://github.com/happyvirgo/github-readme-stats)
 - 👋 Hi, I’m @HappyVirgo
 - 👀 I’m interested in javascript frameworks such as react/vue/angular.
