@@ -49,7 +49,6 @@
 - 💞️ I’m looking for a new job immediately.
 - 🤑 My hourly rate is 30$ and salary expectation is 5000$
 - 📫 How to reach me: 
-happy0910virgo@gmail.com
 skype: live:.cid.9106fef336b5c354
 
 <!---
