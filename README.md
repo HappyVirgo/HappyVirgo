@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happyvirgo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happyvirgo&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @HappyVirgo
 - 👀 I’m interested in javascript frameworks such as react/vue/angular.
 - 🌱 I’m currently learning those frameworks and have already had some experience in react.
