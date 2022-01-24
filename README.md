@@ -47,7 +47,6 @@
 - 👋 Hi, I’m @HappyVirgo
 - 👀 I’m proficient in Javascript frameworks such as react/vue/angular.
 - 💞️ I’m looking for a new job immediately.
-- 🤑 My hourly rate is 30$ and salary expectation is 5000$
 - 📫 How to reach me: 
 skype: live:.cid.9106fef336b5c354
 
