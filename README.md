@@ -48,7 +48,7 @@
 - 👀 I’m proficient in Javascript frameworks such as react/vue/angular.
 - 💞️ I’m looking for a new job immediately.
 - 📫 How to reach me: 
-skype: live:.cid.9106fef336b5c354
+skype: live:.cid.98770c247c8597ab
 
 <!---
 HappyVirgo/HappyVirgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
