@@ -1,56 +1,59 @@
-
-<meta name="awesome-portfolio"/>
-<meta name="portfolio"/>
-<meta name="github"/>
-<meta name="full-stack"/>
-
-<img align="right" alt="awesome-github-profile" src="https://github-readme-stats.vercel.app/api?username=HappyVirgo&layout=demo&border_radius=20px&show_icons=true&theme=" />
-
-# Hello. <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" alt="👋 Waving Hand - Royalty-Free GIF - Animated Sticker - Free PNG - Animated  Icon" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" id="imi" data-w="400" data-h="400" data-xblocker="passed" style="visibility: visible; width: 50px; height: 45px; margin: 0px;">
-
-
-## :smile: Stay smiling and :book: keep coding.
-
-🚀 Full-Stack Engineer :punch: JavaScript, PHP, Python
-<br/><br/>
-
-<p align="left">
- <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="javascript-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/angular.png" alt="angular-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
- <img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/vue.png" alt="vue-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
- <img src="https://www.theconsolelogs.com/react/redux.svg" alt="redux-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://img.icons8.com/color/344/css3.png" alt="css3-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://img.icons8.com/color/344/html-5.png" alt="html5-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/bootstrap.png" alt="bootstrap-github-profile-awesome-beautiful" width="35" height="37" style="visibility: visible;">
- <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/ghost/ghost-icon.svg" alt="ghost-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby-github-profile-awesome-beautiful" width="40" height="40"/>
- <img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/jquery.png" alt="jquery-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
- <span>...</span>
+<p align='center'>
+    <a href="https://join.skype.com/invite/px3PSoUNX5y9">
+      <img src="https://img.shields.io/badge/skype-%230077B5.svg?&style=for-the-badge&logo=skype&logoColor=white" />
+    </a>&nbsp;&nbsp;
+    <a href="mailto:jazz0910man@gmail.com">
+      <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>&nbsp;&nbsp;
 </p>
-<br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappyVirgo&layout=compact&card_width=495px&border_radius=20px&show_icons=true&theme=" alt="beautiful-github-profile-hi-with-handshake"/>
 
-## :fire: Let's work harder to build a beautiful :earth_americas:.
-## :two_men_holding_hands: Together!
+Talking about Personal Stuffs:
 
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="35" src="https://www.andre-abt.com/content/1-home/vuex.svg"></code>
+<code><img height="35" src="https://bestofjs.org/logos/vuetify.svg"></code>
+<code><img height="35" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<br>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" ></code>
+<code><img height="35" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" ></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/pwa.png"></code>
+<code><img height="35" width="35" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/4b228024863997.5633b53b3205f.png"></code>
+<code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/erp.png"></code>
+<code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/crm.png"></code>
+<code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2b.png"></code>
+<code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2c.png"></code>
+<br><br>
+</details>
 
-- 👋 Hi, I’m @HappyVirgo
-- 👀 I’m proficient in Javascript frameworks such as react/vue/angular.
-- 💞️ I’m looking for a new job immediately.
-- 📫 How to reach me: 
-skype: live:.cid.98770c247c8597ab
-
-<!---
-HappyVirgo/HappyVirgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=happyvirgo&column=7&theme=onedark"/>
+</p>
