@@ -6,7 +6,30 @@
       <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
     </a>&nbsp;&nbsp;
 </p>
-
+<p align="center" display="flex">
+  <a href="https://www.hackerrank.com/certificates/b7e5141a4379">
+    <img width="30%" src="hacker_react.png" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/d3440ebe068f">
+    <img width="30%" src="hacker_angular.png" />
+  </a>
+   <a href="https://www.hackerrank.com/certificates/ae65195ac2b2">
+    <img width="30%" src="hacker_api.png" />
+  </a>
+  
+</p>
+<p align="center" display="flex">
+  <a href="https://www.hackerrank.com/certificates/1d20387fa74b">
+    <img width="30%" src="hacker_js.PNG" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/7659741cfb58">
+    <img width="30%" src="hacker_sql.png" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/ac2d8c948fdb">
+    <img width="30%" src="hacker_css.PNG" />
+  </a>
+  
+</p>
 Talking about Personal Stuffs:
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png"></code>
