@@ -10,6 +10,9 @@
   <a href="https://www.hackerrank.com/certificates/796312764c12">
     <img width="30%" src="javascript_basic certificate.png" />
   </a>
+  <a href="https://www.hackerrank.com/certificates/fd1de74f2a24">
+    <img width="30%" src="react_basic certificate.jpg" />
+  </a>
 </div>
 
 Talking about Personal Stuffs:
