@@ -1,5 +1,5 @@
 <p align='center'>
-    <a href="https://join.skype.com/invite/px3PSoUNX5y9">
+    <a href="https://join.skype.com/invite/KrMw6TC0oXTv">
       <img src="https://img.shields.io/badge/skype-%230077B5.svg?&style=for-the-badge&logo=skype&logoColor=white" />
     </a>&nbsp;&nbsp;
     <a href="mailto:jazz0910man@gmail.com">
