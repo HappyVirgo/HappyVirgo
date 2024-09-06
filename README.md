@@ -1,11 +1,3 @@
-<p align='center'>
-    <a href="https://join.skype.com/invite/KrMw6TC0oXTv">
-      <img src="https://img.shields.io/badge/skype-%230077B5.svg?&style=for-the-badge&logo=skype&logoColor=white" />
-    </a>&nbsp;&nbsp;
-    <a href="mailto:jazz0910man@gmail.com">
-      <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>&nbsp;&nbsp;
-</p>
 <div align="center" display="flex">
   <a href="https://www.hackerrank.com/certificates/796312764c12">
     <img width="30%" src="javascript_basic certificate.png" />
